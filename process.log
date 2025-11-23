@@ -398,3 +398,23 @@
 2025-11-23 23:10:43,787 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:43] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
 2025-11-23 23:10:50,323 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:50] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
 2025-11-23 23:10:50,327 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:50] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-24 00:18:17,759 - INFO - Using device: cpu
+2025-11-24 00:18:17,910 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-24 00:18:17,911 - INFO - Best validation accuracy: 70.05%
+2025-11-24 00:18:17,911 - INFO - Deepfake Detector initialized successfully.
+2025-11-24 00:18:17,964 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-24 00:18:17,964 - INFO - IndicASR initialized successfully.
+2025-11-24 00:18:17,993 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+2025-11-24 00:18:17,993 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 00:18:17,994 - INFO -  * Restarting with stat
+2025-11-24 00:18:22,090 - INFO - Using device: cpu
+2025-11-24 00:18:22,215 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-24 00:18:22,215 - INFO - Best validation accuracy: 70.05%
+2025-11-24 00:18:22,216 - INFO - Deepfake Detector initialized successfully.
+2025-11-24 00:18:22,261 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-24 00:18:22,261 - INFO - IndicASR initialized successfully.
+2025-11-24 00:18:22,274 - WARNING -  * Debugger is active!
+2025-11-24 00:18:22,283 - INFO -  * Debugger PIN: 736-145-403

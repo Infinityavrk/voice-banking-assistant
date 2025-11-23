@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: voice-banking-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: SARVAM_API_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
