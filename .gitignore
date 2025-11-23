@@ -18,3 +18,5 @@ DeepfakeDetection/models/
 node_modules/
 dist/
 .DS_Store
+
+vercel.json
