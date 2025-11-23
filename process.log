@@ -1,0 +1,400 @@
+2025-11-23 22:36:51,014 - INFO - Using device: cpu
+2025-11-23 22:36:51,710 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 22:36:51,714 - INFO - Best validation accuracy: 70.05%
+2025-11-23 22:36:51,715 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 22:36:51,902 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 22:36:51,902 - INFO - IndicASR initialized successfully.
+2025-11-23 22:36:51,930 - WARNING -  * Debugger is active!
+2025-11-23 22:36:51,968 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 22:51:58,086 - INFO - Deepfake result for asha: {'prediction': 'FAKE', 'confidence': 50.33779740333557, 'probabilities': {'real': 49.66219961643219, 'fake': 50.33779740333557}}
+2025-11-23 22:51:58,087 - INFO - 127.0.0.1 - - [23/Nov/2025 22:51:58] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-11-23 23:01:07,486 - INFO - Saved 10 samples for user asha
+2025-11-23 23:01:07,488 - INFO - Found 10 WAV files in '/Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/Data/asha'.
+2025-11-23 23:01:15,529 - INFO - Using device: cpu
+2025-11-23 23:01:15,811 - INFO - Using device: cpu
+2025-11-23 23:01:15,819 - INFO - Using device: cpu
+2025-11-23 23:01:15,973 - INFO - Using device: cpu
+2025-11-23 23:01:15,992 - INFO - Using device: cpu
+2025-11-23 23:01:16,026 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:16,026 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:16,027 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:16,068 - INFO - Using device: cpu
+2025-11-23 23:01:16,087 - INFO - Using device: cpu
+2025-11-23 23:01:16,159 - INFO - Using device: cpu
+2025-11-23 23:01:16,284 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:16,284 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,283 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,285 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,290 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,430 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,431 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,432 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,465 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,466 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,477 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,478 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,478 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,577 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,579 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,586 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,597 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,597 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,598 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,684 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,684 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,700 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,701 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,743 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,743 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,743 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,745 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,745 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,760 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:01:17,760 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:01:17,761 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:01:17,806 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,806 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,834 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,834 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:17,887 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:01:17,887 - INFO - IndicASR initialized successfully.
+2025-11-23 23:01:19,425 - INFO - Successfully read file: sample_5.wav with sample rate: 44100
+2025-11-23 23:01:19,438 - INFO - Successfully read file: sample_8.wav with sample rate: 44100
+2025-11-23 23:01:19,439 - INFO - Successfully read file: sample_10.wav with sample rate: 44100
+2025-11-23 23:01:19,443 - INFO - Successfully read file: sample_9.wav with sample rate: 44100
+2025-11-23 23:01:19,473 - INFO - Successfully read file: sample_7.wav with sample rate: 44100
+2025-11-23 23:01:19,482 - INFO - Extracted MFCC features shape: (305, 20)
+2025-11-23 23:01:19,483 - INFO - Extracted MFCC features shape: (323, 20)
+2025-11-23 23:01:19,483 - INFO - Extracted MFCC features shape: (263, 20)
+2025-11-23 23:01:19,483 - INFO - Extracted MFCC features shape: (317, 20)
+2025-11-23 23:01:19,484 - INFO - Feature Variance: [  7.38646203 290.64359455 235.3106839  404.67832492 229.35937361
+ 150.92948028 443.3862184  219.67726104 192.88954836 100.20728053
+  82.20416983 129.0621926  110.30760869  61.45598824  81.92711489
+  32.58947515  30.61545488  20.59221581  15.20659377   6.54302805]
+2025-11-23 23:01:19,484 - INFO - Feature Variance: [  5.80517335 322.39166413 315.80839303 502.88486587 336.94784159
+ 239.82333383 640.13480551 308.8700122  262.36581872 115.56248403
+ 135.11952904 147.91082163 127.88597907  72.91154866  85.34751958
+  69.80668878  39.90279607  21.51284911  18.88412223   6.75793564]
+2025-11-23 23:01:19,484 - INFO - Feature Variance: [  5.63996251 259.39874074 249.68342636 393.18293309 298.18755316
+ 199.66281461 389.23272926 198.27681977 207.0004257   98.19157794
+ 101.59768309 141.04392943  84.12800785  70.19962972  61.75256507
+  38.04948247  30.87659629  18.64881444  19.85674874   8.46269571]
+2025-11-23 23:01:19,485 - INFO - Feature Variance: [  6.90467232 309.32158201 186.66404219 545.83807637 347.86741286
+ 135.67840025 648.58628853 322.82217968 225.00133935 178.88954351
+ 131.60776261 143.19261107 129.78176335  72.46228506  62.48009287
+  35.48358753  24.16845211  16.80512052  12.55822085   6.96132661]
+2025-11-23 23:01:19,484 - INFO - Successfully read file: sample_6.wav with sample rate: 44100
+2025-11-23 23:01:19,506 - INFO - Extracted MFCC features shape: (323, 20)
+2025-11-23 23:01:19,506 - INFO - Successfully read file: sample_4.wav with sample rate: 44100
+2025-11-23 23:01:19,507 - INFO - Feature Variance: [  6.2503135  239.780214   309.76150122 394.46457073 209.70173804
+ 170.80562836 543.08133713 268.77697881 201.68352921 114.83799282
+ 100.32457328 119.01238106 113.10849623  83.97683294  66.89934299
+  31.76788202  29.25305337  18.71281153  13.04946464   6.3980428 ]
+2025-11-23 23:01:19,512 - INFO - Features extracted from sample_8.wav: shape (263, 40)
+2025-11-23 23:01:19,514 - INFO - Successfully read file: sample_1.wav with sample rate: 44100
+2025-11-23 23:01:19,517 - INFO - Features extracted from sample_7.wav: shape (323, 40)
+2025-11-23 23:01:19,518 - INFO - Features extracted from sample_5.wav: shape (323, 40)
+2025-11-23 23:01:19,518 - INFO - Features extracted from sample_9.wav: shape (305, 40)
+2025-11-23 23:01:19,518 - INFO - Features extracted from sample_10.wav: shape (317, 40)
+2025-11-23 23:01:19,546 - INFO - Extracted MFCC features shape: (347, 20)
+2025-11-23 23:01:19,547 - INFO - Feature Variance: [  7.08948492 324.58740511 283.30926559 487.70287037 254.23862077
+ 225.74385358 512.71219478 294.85906873 206.60009351 168.98965336
+  96.66617901 127.93983473  86.24252706  61.91303466  65.29142937
+  45.88526717  29.10478657  23.78444812  12.83835836   6.46598536]
+2025-11-23 23:01:19,558 - INFO - Extracted MFCC features shape: (329, 20)
+2025-11-23 23:01:19,563 - INFO - Feature Variance: [  5.570159   268.27777319 344.35231855 397.54323502 281.98381625
+ 209.31521548 469.29429437 257.88775433 313.72517398 141.25739354
+ 151.33551026 166.37755868 129.93173636 125.27326076 102.0550353
+  61.72048977  36.85346028  24.47432455  25.53652539   8.33799416]
+2025-11-23 23:01:19,565 - INFO - Features extracted from sample_6.wav: shape (347, 40)
+2025-11-23 23:01:19,573 - INFO - Extracted MFCC features shape: (503, 20)
+2025-11-23 23:01:19,574 - INFO - Feature Variance: [ 14.86411914 263.69225667 244.10940715 298.29394927 175.88718544
+ 129.32374879 404.54335578 199.57424935 131.34105354 105.74433027
+  85.65554748  83.19029501 101.90773354  56.54014268  47.39982669
+  36.54498521  32.25337298  15.68945593  13.56482804   5.3212466 ]
+2025-11-23 23:01:19,578 - INFO - Features extracted from sample_4.wav: shape (329, 40)
+2025-11-23 23:01:19,582 - INFO - Features extracted from sample_1.wav: shape (503, 40)
+2025-11-23 23:01:19,620 - INFO - Successfully read file: sample_2.wav with sample rate: 44100
+2025-11-23 23:01:19,620 - INFO - Successfully read file: sample_3.wav with sample rate: 44100
+2025-11-23 23:01:19,635 - INFO - Extracted MFCC features shape: (275, 20)
+2025-11-23 23:01:19,636 - INFO - Feature Variance: [  7.14307848 282.72438534 272.16675451 371.18650775 231.45530463
+ 197.4505963  445.12057154 214.7122553  216.45977997 141.90569962
+ 124.7265405   99.23380653  98.99153817  75.48441172  89.58311124
+  49.78841563  25.72045296  25.7164986   26.64462028   9.67089496]
+2025-11-23 23:01:19,639 - INFO - Extracted MFCC features shape: (299, 20)
+2025-11-23 23:01:19,640 - INFO - Feature Variance: [  5.57912725 350.99632471 290.45409753 484.67505951 216.33121449
+ 234.74804319 521.16580093 283.17279886 232.78368797 131.67988681
+ 122.48725365 135.12652039 138.48131279  82.72078736  81.63674221
+  43.23280842  25.24211557  26.00624315  18.0185382   10.48546437]
+2025-11-23 23:01:19,641 - INFO - Features extracted from sample_3.wav: shape (275, 40)
+2025-11-23 23:01:19,642 - INFO - Features extracted from sample_2.wav: shape (299, 40)
+2025-11-23 23:01:19,769 - INFO - Total features concatenated: (3284, 40)
+2025-11-23 23:01:19,778 - INFO - UBM Means shape: (32, 40)
+2025-11-23 23:01:19,778 - INFO - UBM Covariances shape: (32, 40)
+2025-11-23 23:01:19,781 - INFO - Fitting the GMM model to the extracted features...
+2025-11-23 23:01:20,065 - INFO - GMM model training completed successfully in 0.28 seconds.
+2025-11-23 23:01:20,069 - INFO - GMM model trained and saved successfully at /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/voiceauth/model/asha.gmm.
+2025-11-23 23:01:20,073 - INFO - Saved baseline stats for asha: Mean=-18.60, Std=10.58
+2025-11-23 23:01:20,075 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:20] "[35m[1mPOST /api/signup HTTP/1.1[0m" 201 -
+2025-11-23 23:01:34,808 - INFO - Deepfake result for asha: {'prediction': 'REAL', 'confidence': 62.29661703109741, 'probabilities': {'real': 62.29661703109741, 'fake': 37.703388929367065}}
+2025-11-23 23:01:34,900 - INFO - Extracted MFCC features shape: (431, 20)
+2025-11-23 23:01:34,901 - INFO - Feature Variance: [  9.95389465 245.9510372  240.47454551 673.68358364 303.33730773
+ 108.94604917 679.6833106  278.28995999 143.30216526 202.76967636
+ 196.82191863 134.5722087  127.10804938 117.30429114  80.66180284
+  29.3478031   43.41211064  34.98424008  12.77535115  10.593986  ]
+2025-11-23 23:01:34,910 - INFO - Log-Likelihood for asha: -19.375462398796607
+2025-11-23 23:01:34,911 - INFO - Using Adaptive Threshold: -23.598662079770133 (Mean: -18.60 - Margin: 5.0)
+2025-11-23 23:01:34,912 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:34] "POST /api/login HTTP/1.1" 200 -
+2025-11-23 23:01:34,923 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:34] "OPTIONS /api/send-otp HTTP/1.1" 200 -
+2025-11-23 23:01:34,924 - INFO - === OTP for codeasasha@gmail.com ===
+2025-11-23 23:01:34,924 - INFO - OTP: 559361
+2025-11-23 23:01:34,924 - INFO - Valid for 5 minutes
+2025-11-23 23:01:34,924 - INFO - ========================================
+2025-11-23 23:01:36,156 - INFO - ✅ Email sent to codeasasha@gmail.com via Resend (ID: b9bf5fb4-0f0b-4494-a159-47b786e5e26e)
+2025-11-23 23:01:36,156 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:36] "POST /api/send-otp HTTP/1.1" 200 -
+2025-11-23 23:01:53,142 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:53] "OPTIONS /api/verify-otp HTTP/1.1" 200 -
+2025-11-23 23:01:53,144 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:53] "POST /api/verify-otp HTTP/1.1" 200 -
+2025-11-23 23:01:54,212 - INFO - Deepfake result for asha: {'prediction': 'REAL', 'confidence': 62.29661703109741, 'probabilities': {'real': 62.29661703109741, 'fake': 37.703388929367065}}
+2025-11-23 23:01:54,291 - INFO - Extracted MFCC features shape: (431, 20)
+2025-11-23 23:01:54,292 - INFO - Feature Variance: [  9.95389465 245.9510372  240.47454551 673.68358364 303.33730773
+ 108.94604917 679.6833106  278.28995999 143.30216526 202.76967636
+ 196.82191863 134.5722087  127.10804938 117.30429114  80.66180284
+  29.3478031   43.41211064  34.98424008  12.77535115  10.593986  ]
+2025-11-23 23:01:54,298 - INFO - Log-Likelihood for asha: -19.375462398796607
+2025-11-23 23:01:54,299 - INFO - Using Adaptive Threshold: -23.598662079770133 (Mean: -18.60 - Margin: 5.0)
+2025-11-23 23:01:54,300 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:54] "POST /api/login HTTP/1.1" 200 -
+2025-11-23 23:01:54,331 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:54] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:01:54,333 - INFO - 127.0.0.1 - - [23/Nov/2025 23:01:54] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:02:28,790 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:02:29,711 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:02:29,719 - INFO - Transcription: Transfer 5000 to Mom.
+2025-11-23 23:02:29,719 - INFO - ASR Transcribed: Transfer 5000 to Mom.
+2025-11-23 23:02:29,723 - INFO - 127.0.0.1 - - [23/Nov/2025 23:02:29] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:02:29,752 - INFO - 127.0.0.1 - - [23/Nov/2025 23:02:29] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:02:38,612 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:02:42,200 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:02:42,202 - INFO - Transcription: Transfer 10000 to Mom.
+2025-11-23 23:02:42,202 - INFO - ASR Transcribed: Transfer 10000 to Mom.
+2025-11-23 23:02:42,203 - INFO - 127.0.0.1 - - [23/Nov/2025 23:02:42] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:02:42,213 - INFO - 127.0.0.1 - - [23/Nov/2025 23:02:42] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:02:50,334 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:02:51,370 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:02:51,371 - INFO - Transcription: Yes.
+2025-11-23 23:02:51,371 - INFO - ASR Transcribed: Yes.
+2025-11-23 23:02:51,375 - INFO - 127.0.0.1 - - [23/Nov/2025 23:02:51] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:02:59,047 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:03:00,310 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:03:00,311 - INFO - Transcription: Transfer 5000 to Mom.
+2025-11-23 23:03:00,311 - INFO - ASR Transcribed: Transfer 5000 to Mom.
+2025-11-23 23:03:00,312 - INFO - 127.0.0.1 - - [23/Nov/2025 23:03:00] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:03:00,316 - INFO - 127.0.0.1 - - [23/Nov/2025 23:03:00] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:03:06,948 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:03:07,659 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:03:07,660 - INFO - Transcription: Yes.
+2025-11-23 23:03:07,660 - INFO - ASR Transcribed: Yes.
+2025-11-23 23:03:07,662 - INFO - 127.0.0.1 - - [23/Nov/2025 23:03:07] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:04:15,802 - INFO - 127.0.0.1 - - [23/Nov/2025 23:04:15] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:04:15,806 - INFO - 127.0.0.1 - - [23/Nov/2025 23:04:15] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:04:29,119 - INFO - 127.0.0.1 - - [23/Nov/2025 23:04:29] "GET /health HTTP/1.1" 200 -
+2025-11-23 23:04:58,654 - INFO -  * Detected change in '/Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/banking_service.py', reloading
+2025-11-23 23:05:04,157 - INFO - Using device: cpu
+2025-11-23 23:05:04,314 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:05:04,315 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:05:04,316 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:05:04,419 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:05:04,419 - INFO - IndicASR initialized successfully.
+2025-11-23 23:05:04,439 - WARNING -  * Debugger is active!
+2025-11-23 23:05:04,461 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:05:15,229 - INFO - Using device: cpu
+2025-11-23 23:05:15,362 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:05:15,362 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:05:15,362 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:05:15,413 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:05:15,413 - INFO - IndicASR initialized successfully.
+2025-11-23 23:05:15,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+2025-11-23 23:05:15,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-23 23:05:15,521 - INFO -  * Restarting with stat
+2025-11-23 23:05:19,110 - INFO - Using device: cpu
+2025-11-23 23:05:19,234 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:05:19,234 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:05:19,234 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:05:19,282 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:05:19,282 - INFO - IndicASR initialized successfully.
+2025-11-23 23:05:19,298 - WARNING -  * Debugger is active!
+2025-11-23 23:05:19,307 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:05:20,394 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:20] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:05:20,396 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:20] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:05:35,875 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:35] "GET /health HTTP/1.1" 200 -
+2025-11-23 23:05:36,427 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:05:37,515 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:05:37,576 - INFO - Transcription: Transfer 10000 to mom.
+2025-11-23 23:05:37,576 - INFO - ASR Transcribed: Transfer 10000 to mom.
+2025-11-23 23:05:37,595 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:37] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:05:37,694 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:37] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:05:47,244 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:05:48,117 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:05:48,118 - INFO - Transcription: 502 mom
+2025-11-23 23:05:48,118 - INFO - ASR Transcribed: 502 mom
+2025-11-23 23:05:48,122 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:48] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:05:57,905 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:05:58,814 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:05:58,815 - INFO - Transcription: Give me last five transactions.
+2025-11-23 23:05:58,815 - INFO - ASR Transcribed: Give me last five transactions.
+2025-11-23 23:05:58,816 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:58] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:05:58,820 - INFO - 127.0.0.1 - - [23/Nov/2025 23:05:58] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:06:07,873 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:06:09,023 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:06:09,025 - INFO - Transcription: Send ten thousand to Mom.
+2025-11-23 23:06:09,025 - INFO - ASR Transcribed: Send ten thousand to Mom.
+2025-11-23 23:06:09,026 - INFO - 127.0.0.1 - - [23/Nov/2025 23:06:09] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:07:18,667 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:18] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:07:18,675 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:18] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:07:24,078 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:07:25,049 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:07:25,060 - INFO - Transcription: Send ten thousand to mom.
+2025-11-23 23:07:25,061 - INFO - ASR Transcribed: Send ten thousand to mom.
+2025-11-23 23:07:25,062 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:25] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:07:28,617 - INFO -  * Detected change in '/Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/nlp_service.py', reloading
+2025-11-23 23:07:29,761 - INFO -  * Restarting with stat
+2025-11-23 23:07:34,473 - INFO - Using device: cpu
+2025-11-23 23:07:34,585 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:07:34,585 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:07:34,586 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:07:34,634 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:07:34,634 - INFO - IndicASR initialized successfully.
+2025-11-23 23:07:34,650 - WARNING -  * Debugger is active!
+2025-11-23 23:07:34,662 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:07:34,710 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:07:36,069 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:07:36,072 - INFO - Transcription: Send ten thousand rupees to mom.
+2025-11-23 23:07:36,073 - INFO - ASR Transcribed: Send ten thousand rupees to mom.
+2025-11-23 23:07:36,077 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:36] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:07:45,662 - INFO - Using device: cpu
+2025-11-23 23:07:45,795 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:07:45,795 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:07:45,796 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:07:45,840 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:07:45,840 - INFO - IndicASR initialized successfully.
+2025-11-23 23:07:47,068 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+2025-11-23 23:07:47,068 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-23 23:07:47,071 - INFO -  * Restarting with stat
+2025-11-23 23:07:49,811 - INFO - Using device: cpu
+2025-11-23 23:07:49,927 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:07:49,927 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:07:49,927 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:07:49,974 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:07:49,974 - INFO - IndicASR initialized successfully.
+2025-11-23 23:07:49,990 - WARNING -  * Debugger is active!
+2025-11-23 23:07:49,999 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:07:50,049 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:07:52,957 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:07:52,965 - INFO - Transcription: Send ten thousand rupees to Mr. Shyam.
+2025-11-23 23:07:52,965 - INFO - ASR Transcribed: Send ten thousand rupees to Mr. Shyam.
+2025-11-23 23:07:52,969 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:52] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:07:56,875 - INFO - 127.0.0.1 - - [23/Nov/2025 23:07:56] "GET /health HTTP/1.1" 200 -
+2025-11-23 23:08:03,225 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:03] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:03,228 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:03] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,288 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,290 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,476 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,478 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,664 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:05,666 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:05] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:11,495 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:08:12,442 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:08:12,444 - INFO - Transcription: Send ₹10000 to Mr. Shyam.
+2025-11-23 23:08:12,444 - INFO - ASR Transcribed: Send ₹10000 to Mr. Shyam.
+2025-11-23 23:08:12,446 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:12] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:08:41,996 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:08:42,960 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:08:42,970 - INFO - Transcription: Show me the last five transactions.
+2025-11-23 23:08:42,970 - INFO - ASR Transcribed: Show me the last five transactions.
+2025-11-23 23:08:42,985 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:42] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:08:43,091 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:43] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:50,944 - INFO - Using device: cpu
+2025-11-23 23:08:51,100 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:08:51,100 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:08:51,100 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:08:51,158 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:08:51,158 - INFO - IndicASR initialized successfully.
+2025-11-23 23:08:51,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+2025-11-23 23:08:51,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-23 23:08:51,267 - INFO -  * Restarting with stat
+2025-11-23 23:08:54,141 - INFO - Using device: cpu
+2025-11-23 23:08:54,248 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:08:54,248 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:08:54,248 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:08:54,287 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:08:54,287 - INFO - IndicASR initialized successfully.
+2025-11-23 23:08:54,304 - WARNING -  * Debugger is active!
+2025-11-23 23:08:54,314 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:08:56,706 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:56] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:08:56,708 - INFO - 127.0.0.1 - - [23/Nov/2025 23:08:56] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:09:01,956 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:09:02,834 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:09:02,839 - INFO - Transcription: What is my account balance?
+2025-11-23 23:09:02,839 - INFO - ASR Transcribed: What is my account balance?
+2025-11-23 23:09:02,839 - INFO - 127.0.0.1 - - [23/Nov/2025 23:09:02] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:09:02,872 - INFO - 127.0.0.1 - - [23/Nov/2025 23:09:02] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:09:03,334 - INFO - 127.0.0.1 - - [23/Nov/2025 23:09:03] "GET /health HTTP/1.1" 200 -
+2025-11-23 23:09:10,461 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:09:11,539 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:09:11,540 - INFO - Transcription: Send ₹5000 to Mr. Shyam.
+2025-11-23 23:09:11,540 - INFO - ASR Transcribed: Send ₹5000 to Mr. Shyam.
+2025-11-23 23:09:11,543 - INFO - 127.0.0.1 - - [23/Nov/2025 23:09:11] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:10:08,305 - INFO -  * Detected change in '/Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/nlp_service.py', reloading
+2025-11-23 23:10:09,384 - INFO -  * Restarting with stat
+2025-11-23 23:10:13,731 - INFO - Using device: cpu
+2025-11-23 23:10:13,856 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:10:13,857 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:10:13,857 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:10:13,914 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:10:13,914 - INFO - IndicASR initialized successfully.
+2025-11-23 23:10:13,926 - WARNING -  * Debugger is active!
+2025-11-23 23:10:13,942 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:10:23,659 - INFO - Using device: cpu
+2025-11-23 23:10:23,806 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:10:23,806 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:10:23,807 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:10:23,863 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:10:23,863 - INFO - IndicASR initialized successfully.
+2025-11-23 23:10:24,044 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+2025-11-23 23:10:24,045 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-23 23:10:24,049 - INFO -  * Restarting with stat
+2025-11-23 23:10:27,453 - INFO - Using device: cpu
+2025-11-23 23:10:27,557 - INFO - Model loaded from /Users/ashavidyadharan/Mine/Hackathon/AnitaB/Code/Voice-Authentication/DeepfakeDetection/models/best_model.pth
+2025-11-23 23:10:27,557 - INFO - Best validation accuracy: 70.05%
+2025-11-23 23:10:27,557 - INFO - Deepfake Detector initialized successfully.
+2025-11-23 23:10:27,603 - INFO - Sarvam AI ASR initialized successfully.
+2025-11-23 23:10:27,603 - INFO - IndicASR initialized successfully.
+2025-11-23 23:10:27,623 - WARNING -  * Debugger is active!
+2025-11-23 23:10:27,631 - INFO -  * Debugger PIN: 736-145-403
+2025-11-23 23:10:27,681 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:27] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:10:27,683 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:27] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:10:30,484 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:10:31,621 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:10:31,626 - INFO - Transcription: Can I take a loan?
+2025-11-23 23:10:31,626 - INFO - ASR Transcribed: Can I take a loan?
+2025-11-23 23:10:31,628 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:31] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:10:31,666 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:31] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:10:33,389 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:33] "GET /health HTTP/1.1" 200 -
+2025-11-23 23:10:42,454 - INFO - Transcribing audio with Sarvam AI (language: en-US)
+2025-11-23 23:10:43,778 - INFO - HTTP Request: POST https://api.sarvam.ai/speech-to-text-translate "HTTP/1.1 200 OK"
+2025-11-23 23:10:43,779 - INFO - Transcription: Can I send ₹500 to Mr. Shyam?
+2025-11-23 23:10:43,779 - INFO - ASR Transcribed: Can I send ₹500 to Mr. Shyam?
+2025-11-23 23:10:43,781 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:43] "POST /api/chat HTTP/1.1" 200 -
+2025-11-23 23:10:43,787 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:43] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:10:50,323 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:50] "GET /api/banking/data?username=asha HTTP/1.1" 200 -
+2025-11-23 23:10:50,327 - INFO - 127.0.0.1 - - [23/Nov/2025 23:10:50] "GET /api/banking/data?username=asha HTTP/1.1" 200 -

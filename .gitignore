@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Data & Models
+Data/
+voiceauth/model/
+DeepfakeDetection/models/
+*.pkl
+*.gmm
+*.wav
+
+# Node
+node_modules/
+dist/
+.DS_Store
