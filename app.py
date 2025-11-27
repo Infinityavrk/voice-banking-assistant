@@ -32,6 +32,10 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+@app.route("/", methods=["GET"])
+def home():
+    return "Voice Banking Assistant backend is running ✅", 200
+
 # Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 UBM_MODEL_PATH = os.path.join(BASE_DIR, 'voiceauth', 'model', 'ubm_model.pkl')
