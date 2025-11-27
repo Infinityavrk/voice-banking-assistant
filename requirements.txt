@@ -10,3 +10,5 @@ torchvision==0.19.1
 tqdm==4.66.5
 wavio==0.0.9
 gunicorn==23.0.0
+
+fastapi
